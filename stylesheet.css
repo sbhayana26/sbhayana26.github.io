@@ -16,3 +16,5 @@ img
   { opacity: 0.5;
   z-index: -1;
   }
+img:hover
+  { opacity: 1.0;
