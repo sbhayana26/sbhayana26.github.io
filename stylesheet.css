@@ -4,11 +4,14 @@ body
   color: #ffffff;
   background-image: url("http://images5.fanpop.com/image/photos/30700000/Yoda-Wallpaper-star-wars-30766197-1920-1200.jpg");
   background-repeat: no-repeat;
-  opacity: 0.5;
+  
   }
 ul
   { padding: 0;
   }
 li
   { list-type: none;
+  }
+.main-block img
+  { opacity: 0.5;
   }
