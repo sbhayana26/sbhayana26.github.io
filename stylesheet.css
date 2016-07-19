@@ -3,6 +3,7 @@ body
   padding: 100px 0;
   color: #ffffff;
   background-image: url("http://images5.fanpop.com/image/photos/30700000/Yoda-Wallpaper-star-wars-30766197-1920-1200.jpg");
+  background-repeat: no-repeat;
   }
 ul
   { padding: 0;
