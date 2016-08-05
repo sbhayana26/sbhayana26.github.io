@@ -117,7 +117,7 @@ li
 	}
 	
 #clock span
-	{ color: #888;
+	{ color: red;
 	text-shadow: 0px 0px 1px #333;
 	font-size: 30px;
 	position: relative;
