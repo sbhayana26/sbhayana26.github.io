@@ -23,4 +23,4 @@ function checkTime(i)
 		{ i = "0" + i;
 		}
 	return i;
-	}
+}
