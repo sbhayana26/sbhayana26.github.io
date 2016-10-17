@@ -109,11 +109,11 @@ li
 	}
 
 #clock
-	{ /*background-color: #062578;*/
+	{ background-color: #062578;
 	font-family: sans-serif;
 	font-size: 30px;
 	text-shadow: 0px 0px 1px #fff;
-	color: blue;
+	color: #14c8b9;
 	}
 	
 #clock span
